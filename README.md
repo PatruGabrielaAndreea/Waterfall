@@ -1,3 +1,3 @@
 # Waterfall
 
-Simulare cascada folosind OpenGl si C++.
+Simulare cascada folosind OpenGl si C.
